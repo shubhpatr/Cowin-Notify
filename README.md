@@ -47,7 +47,7 @@ This section should list any major frameworks that you built your project using.
 * [ReactJS](https://reactjs.org/)
 * [ExpressJS](https://expressjs.com/)
 * [MongoDB](https://www.mongodb.com)
-* [Python](https://www.python.com)
+* [Python](https://www.python.org)
 
 
 
